@@ -1,3 +1,4 @@
+package sistema.agendamento;
 public class Principal {
     public static void main(String[] args){
         
@@ -18,6 +19,5 @@ public class Principal {
         paciente.agendarConsulta(consulta);
         medico.visualizarAgenda(agenda);
 
-        
     }
 }

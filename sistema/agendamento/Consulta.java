@@ -1,3 +1,4 @@
+package sistema.agendamento;
 public class Consulta {
     private String data;
     private String horario;

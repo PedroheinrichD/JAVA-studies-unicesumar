@@ -1,3 +1,4 @@
+package sistema.agendamento;
 public class Medico {
     private String nome;
     private String especialidade;
