@@ -1,3 +1,4 @@
+package sistema.arcondicionado;
 /*
     temperatura atual,
     estado (ligado ou desligado)
