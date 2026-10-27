@@ -1,3 +1,4 @@
+package Banco;
 // superClass
 public class Conta {
     private String titular;
